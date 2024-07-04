@@ -1,0 +1,1 @@
+a b c Key.space o p l s m k w Key.tab Key.caps_lock Key.caps_lock Key.shift Key.ctrl_l Key.cmd Key.cmd Key.alt_l Key.space Key.ctrl_l Key.alt_gr Key.ctrl_r Key.down Key.up Key.esc 
