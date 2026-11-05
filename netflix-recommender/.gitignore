@@ -1,0 +1,4 @@
+data/netflix_titles.csv
+__pycache__/
+.pytest_cache/
+venv/

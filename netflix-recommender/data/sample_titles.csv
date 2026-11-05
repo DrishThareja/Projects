@@ -1,0 +1,31 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Space Quest,A Rao,"Ravi Kumar, Mia Chen, Leo Park",India,"January 1, 2023",2020,TV-14,90 min,"Sci-Fi, Adventure",Fictional sample title for demo.
+s2,Movie,Galaxy Wars,B Das,"Ravi Kumar, Tara Singh",India,"January 1, 2023",2019,TV-14,90 min,"Sci-Fi, Adventure",Fictional sample title for demo.
+s3,Movie,Star Drifters,A Rao,"Mia Chen, Omar Ali",India,"January 1, 2023",2022,TV-14,90 min,"Sci-Fi, Action",Fictional sample title for demo.
+s4,Movie,Lunar Base,C Evans,"Leo Park, Nina Cole",India,"January 1, 2023",2018,TV-14,90 min,"Sci-Fi, Thriller",Fictional sample title for demo.
+s5,TV Show,Star Show,,"Priya Nair, Quinn Hale",India,"January 1, 2023",2021,TV-14,1 Season,"Sci-Fi, Drama",Fictional sample title for demo.
+s6,TV Show,Orbit City,,"Ravi Kumar, Priya Nair",India,"January 1, 2023",2023,TV-14,1 Season,"Sci-Fi, Adventure",Fictional sample title for demo.
+s7,TV Show,Cook Along,,Chef Mira,India,"January 1, 2023",2018,TV-14,1 Season,"Reality, Food",Fictional sample title for demo.
+s8,TV Show,Kitchen Duel,,"Chef Mira, Chef Dan",India,"January 1, 2023",2020,TV-14,1 Season,"Reality, Food",Fictional sample title for demo.
+s9,TV Show,Bake Off Junior,,"Chef Dan, Anna Fox",India,"January 1, 2023",2022,TV-14,1 Season,"Reality, Kids",Fictional sample title for demo.
+s10,Movie,Midnight Heist,D Shah,"Omar Ali, Nina Cole, Sam Reed",India,"January 1, 2023",2021,TV-14,90 min,"Action, Thriller",Fictional sample title for demo.
+s11,Movie,Last Getaway,D Shah,"Sam Reed, Tara Singh",India,"January 1, 2023",2019,TV-14,90 min,"Action, Crime",Fictional sample title for demo.
+s12,Movie,Iron Streets,E Moreno,"Sam Reed, Leo Park",India,"January 1, 2023",2017,TV-14,90 min,"Action, Crime",Fictional sample title for demo.
+s13,TV Show,City Detectives,,"Nina Cole, Omar Ali",India,"January 1, 2023",2020,TV-14,1 Season,"Crime, Drama",Fictional sample title for demo.
+s14,TV Show,Cold Case Files,,"Nina Cole, Quinn Hale",India,"January 1, 2023",2022,TV-14,1 Season,"Crime, Documentary",Fictional sample title for demo.
+s15,Movie,Laugh Track,F Joshi,"Anna Fox, Ben Ward",India,"January 1, 2023",2021,TV-14,90 min,"Comedy, Romance",Fictional sample title for demo.
+s16,Movie,Wedding Mix-Up,F Joshi,"Anna Fox, Priya Nair",India,"January 1, 2023",2019,TV-14,90 min,"Comedy, Romance",Fictional sample title for demo.
+s17,Movie,Office Chaos,G Lin,"Ben Ward, Mia Chen",India,"January 1, 2023",2018,TV-14,90 min,Comedy,Fictional sample title for demo.
+s18,TV Show,Roommates,,"Ben Ward, Anna Fox, Tara Singh",India,"January 1, 2023",2023,TV-14,1 Season,"Comedy, Drama",Fictional sample title for demo.
+s19,TV Show,Small Town Love,,"Priya Nair, Ben Ward",India,"January 1, 2023",2021,TV-14,1 Season,"Romance, Drama",Fictional sample title for demo.
+s20,Movie,Quiet River,H Ito,"Quinn Hale, Mia Chen",India,"January 1, 2023",2020,TV-14,90 min,"Drama, Romance",Fictional sample title for demo.
+s21,Movie,The Long Road,H Ito,"Quinn Hale, Leo Park",India,"January 1, 2023",2016,TV-14,90 min,Drama,Fictional sample title for demo.
+s22,Movie,Echoes of Home,I Kapoor,"Priya Nair, Ravi Kumar",India,"January 1, 2023",2022,TV-14,90 min,"Drama, Family",Fictional sample title for demo.
+s23,TV Show,Family Table,,"Ravi Kumar, Anna Fox",India,"January 1, 2023",2019,TV-14,1 Season,"Drama, Family",Fictional sample title for demo.
+s24,Movie,Haunted Hallway,J Brooks,"Sam Reed, Nina Cole",India,"January 1, 2023",2018,TV-14,90 min,"Horror, Thriller",Fictional sample title for demo.
+s25,Movie,Dark Basement,J Brooks,"Nina Cole, Omar Ali",India,"January 1, 2023",2021,TV-14,90 min,Horror,Fictional sample title for demo.
+s26,TV Show,Night Shift,,"Omar Ali, Quinn Hale",India,"January 1, 2023",2022,TV-14,1 Season,"Horror, Drama",Fictional sample title for demo.
+s27,Movie,Planet Earth Stories,K Roy,,India,"January 1, 2023",2020,TV-14,90 min,"Documentary, Nature",Fictional sample title for demo.
+s28,TV Show,Ocean Deep,K Roy,,India,"January 1, 2023",2021,TV-14,1 Season,"Documentary, Nature",Fictional sample title for demo.
+s29,Movie,Kids Cartoon Day,,"Anna Fox, Ben Ward",India,"January 1, 2023",2019,TV-14,90 min,"Kids, Comedy",Fictional sample title for demo.
+s30,TV Show,Animal Pals,,Anna Fox,India,"January 1, 2023",2023,TV-14,1 Season,"Kids, Family",Fictional sample title for demo.
